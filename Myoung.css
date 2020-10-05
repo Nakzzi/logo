@@ -88,7 +88,7 @@ header #header-bar>.row {
 
     border-top: 5px solid #807F74 !important; /* 광고 배너 테두리 색 */
 
-    border: 1px solid #807F74; /* 광고 배너 테두리 색 */
+    border: 2px solid #807F74; /* 광고 배너 테두리 색 */
 
 }
 
@@ -112,7 +112,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper {
 
-    border: 1px solid #807F74; /* 좌측 배너 테두리 색 */
+    border: 2px solid #807F74; /* 좌측 배너 테두리 색 */
 
     border-top: none !important;
 
@@ -166,7 +166,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
     border-top: 5px solid #807F74 !important; /* 메인 배너 테두리 */
 
-    border: 1px solid #807F74; /* 메인 배너 테두리 */
+    border: 2px solid #807F74; /* 메인 배너 테두리 */
 
 }
 
@@ -200,7 +200,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area #viewers:after {
 
-    content: "의 편지단";    /* 숫자 뒤에 들어갈 문구 */
+    content: "명의 편지단";    /* 숫자 뒤에 들어갈 문구 */
 
         /* ex) content: "명 접속중"; */
 
