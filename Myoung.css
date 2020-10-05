@@ -62,7 +62,7 @@ header #right-search-form>input[type=text] {
 
 header #right-search-form>#right-search-btn {
 
-    color: ##807F74; /* 검색창 옆 돋보기 색 */
+    color: #807F74; /* 검색창 옆 돋보기 색 */
 
 }
 
@@ -86,9 +86,9 @@ header #header-bar>.row, #main .menu-wrapper, #main #main-content>div.frame {
 
 header #header-bar>.row {
 
-    border-top: 5px solid # !important; /* 광고 배너 테두리 색 */
+    border-top: 5px solid #807F74 !important; /* 광고 배너 테두리 색 */
 
-    border: 1px solid ##807F74; /* 광고 배너 테두리 색 */
+    border: 1px solid #807F74; /* 광고 배너 테두리 색 */
 
 }
 
@@ -100,7 +100,7 @@ header #header-bar>.row {
 
 header #header-bar #header-top-notice strong.notice-badge {
 
-    background: ##807F74; /* 광고 배너 광고 뱃지 배경 색상 */
+    background: #807F74; /* 광고 배너 광고 뱃지 배경 색상 */
 
 }
 
@@ -112,7 +112,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper {
 
-    border: 1px solid ##807F74; /* 좌측 배너 테두리 색 */
+    border: 1px solid #807F74; /* 좌측 배너 테두리 색 */
 
     border-top: none !important;
 
@@ -126,7 +126,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper>.header {
 
-    background: ##807F74; /* 좌측 배너 제목 배경 색 */
+    background: #807F74; /* 좌측 배너 제목 배경 색 */
 
     border-radius: 15px 15px 0 0;
 
@@ -178,7 +178,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #board-info #viewers-area {
 
-    color: #; /* 접속자 수 글씨 색 */
+    color: #807F74; /* 접속자 수 글씨 색 */
 
 }
 
