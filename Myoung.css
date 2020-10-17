@@ -128,7 +128,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
     background: #807F74; /* 좌측 배너 제목 배경 색 */
 
-    border-radius: 15px 15px 0 0;
+    border-radius: 5px 5px 0 0;
 
 }
 
@@ -152,7 +152,7 @@ header #header-bar #header-top-notice strong.notice-badge {
 
 #main .menu-wrapper a:nth-last-child(1) {
 
-    border-radius: 0px 0px 15px 15px;
+    border-radius: 0px 0px 5px 5px;
 
 }
 
